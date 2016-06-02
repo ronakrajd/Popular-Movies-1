@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_base_image_url">http://image.tmdb.org/t/p/w185</string>
+    <string name="api_key">API KEY HERE</string>
+
+    <string name="date_unknown">Unknown</string>
+    <string name="detail_rating">RATING</string>
+    <string name="detail_release_date">RELEASE DATE</string>
+    <string name="detail_synopsis">SYNOPSIS</string>
+
+    <string name="format_date_api">yyyy-MM-dd</string>
+    <string name="format_date_output">MM/dd/yyyy</string>
+    <string name="format_rating_output">##.#</string>
+
+    <string name="no_movies_error">No movies to display. Have you provided a valid API Key in strings.xml?</string>
+
+    <string name="parcel_data">MOVIE_DATA</string>
+
+    <string name="rating_divisor">/10</string>
+
+    <string name="sort_param">sortMethod</string>
+    <string name="sort_param_default">popular</string>
+
+    <string name="title_activity_detail">Movie Detail</string>
+    <string name="title_activity_main">Movies</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
